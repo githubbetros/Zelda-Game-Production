@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class LinkController : MonoBehaviour
 {
+    private RigidBody2d Link;
+
+    
     // Start is called before the first frame update
     void Start()
     {
